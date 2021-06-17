@@ -171,6 +171,17 @@ header {
     background-color: #E6E0DF;
 }
 
+.gray-main:last-child .main-wrap {
+    float: none;
+    display: block;
+    width: auto;
+}
+
+.gray-main:last-child img {
+    float: none;
+    display: block;
+    width: auto;
+}
 
 /* / MAIN */
 
