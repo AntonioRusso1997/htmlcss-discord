@@ -128,3 +128,42 @@ header {
     background-color: black;
     color: white;
 }
+
+/* / BANNER */
+
+/* MAIN */
+
+.first-main {
+    width: 100%;    
+    background-color: #FFFFFF;
+}
+
+.section-one {
+    width: 1100px;
+    margin: 0 auto;
+    padding: 80px;
+
+}
+
+.section-one img{
+    float: left;
+    width: calc(100% / 2);
+    display: inline-block;
+    
+}
+
+.main-wrap {
+    float: left;
+    display: inline-block;
+    width: calc(100% / 2);
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.main-title {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+/* / MAIN */
+
